@@ -12,3 +12,7 @@ Offset Kullanımı
 
 [Demo3](https://github.com/Zeynepdrnxs/frontend-egitim/tree/master/demo3):
 Bootstrap Sıralama Özellikleri Kullanarak Responsive Yapıya Göre Tepkilerin Düzenlenmesi
+
+[instagram-clone](https://github.com/Zeynepdrnxs/frontend-egitim/tree/master/instagram-clone):
+instagram-clone Düzenlenmesi /Frontend eğitimimde verilen düzenlemeler içeren bir ödevimi daha tamamladım.
+
