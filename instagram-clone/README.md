@@ -1,5 +1,5 @@
 # instagrambootstrapclone
 Simple HTML Instagram clone made with Bootstrap.
-![Ekran görüntüsü 2023-11-20 225712](https://github.com/zeynepdrnxs/instagram/assets/133643328/5547f428-65f4-4d8d-b345-f9984890e676)
+![Ekran görüntüsü 2024-07-16 ekran1](https://github.com/zeynepdrnxs/instagram-clone/assets/ekran1.png)
 
-![Ekran görüntüsü 2023-11-20 225747](https://github.com/zeynepdrnxs/instagram/assets/133643328/280f28db-9fed-4c46-b90e-afc136b312ab)
+![Ekran görüntüsü 2024-07-16 ekran2](https://github.com/zeynepdrnxs/instagram-clone/assets/ekran2.png)
